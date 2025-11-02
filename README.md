@@ -1,27 +1,29 @@
 <!-- HEADER -->
 <h1 align="center">👋 Hey, I'm <strong>Ramiro Ruggeri</strong></h1>
-<h3 align="center">Fullstack Developer | Co-Founder @ ParaSiempreTech | Data & BI Enthusiast</h3>
+<h3 align="center">💻 Fullstack Developer | 🚀 Co-Founder @ ParaSiempreTech | 📊 Data & BI Enthusiast</h3>
 
 <p align="center">
-🚀 I build software that solves real business problems — from custom web systems and e-commerce to data dashboards and internal tools.<br/>
-Co-founder of <strong>ParaSiempreTech</strong>, a registered software company delivering digital solutions for brands, startups, and enterprises worldwide.
+Building powerful, data-driven, and user-focused software solutions.  
+Founder of <strong>ParaSiempreTech</strong> — a legally registered software company delivering modern, scalable systems for brands, startups, and businesses worldwide.  
 </p>
 
 ---
 
 ## 🧠 About Me
 
-💡 Passionate about technology, design, and efficiency — I turn ideas into clean, scalable, and well-designed software.  
-👨‍💻 Fullstack developer with a solid background in web systems, business logic, and user experience.  
-📊 Enthusiast of data analysis & Power BI — transforming raw numbers into insights that drive smarter decisions.  
-🌍 Based in Argentina, working remotely with clients globally.  
-🤝 Always open to collaboration, creative partnerships, and freelance/contract work.
+Hi! I’m Ramiro — a fullstack developer and entrepreneur from Argentina 🇦🇷 passionate about **building digital products that solve real problems**.  
+
+✨ I specialize in turning ideas into fully functional software — fast, clean, and elegant.  
+🧩 My code blends structure and creativity: I care as much about performance as about aesthetics.  
+📈 I also work in **data analytics** and **Power BI**, translating numbers into decisions that grow businesses.  
+🌎 Currently collaborating with clients globally, helping them go from “I have an idea” → to “It’s online and working.”  
+💬 I love teamwork, visionary ideas, and people who dream big but execute even bigger.  
 
 ---
 
 ## 🧩 Tech Stack
 
-### 💻 Frontend
+### ⚡ Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -57,56 +59,74 @@ Co-founder of <strong>ParaSiempreTech</strong>, a registered software company de
 
 ## 🏗 Featured Projects
 
-### 🛒 **E-Commerce & Management Platform**
-Custom e-commerce built with **Next.js**, **TypeScript**, and **Medusa.js**, featuring:
-- Real-time inventory management  
-- Payment gateways (Mercado Pago / Stripe)  
-- Admin dashboard with analytics  
-- Clean UI + modern dark/gold aesthetic  
-
-> Built under **ParaSiempreTech** — internal commercial deployment.
+### 🛒 **E-Commerce & Business Management System**
+A complete e-commerce + inventory management platform built with **Next.js**, **TypeScript**, and **Medusa.js**.
+- ⚙️ Real-time stock & order tracking  
+- 💳 Payment integrations (Mercado Pago / Stripe)  
+- 📈 Admin panel with sales insights  
+- 🖤 Dark / gold aesthetic — sleek, modern, and conversion-focused  
+> Built under **ParaSiempreTech** — currently deployed for commercial clients.
 
 ---
 
 ### 🕶 **Streetwear Brand Platform**
-An elegant, mobile-first shopping experience for a fashion brand.  
-Includes product quick-view, live WhatsApp chat integration, and stock control panel.  
-
-> Built with **Next.js + TailwindCSS + Node.js**
-
----
-
-### 📊 **Business Dashboard (Power BI + Python)**
-Automated data visualization system:
-- Tracks sales, profit margins, and inventory rotation  
-- Python scripts for ETL  
-- Power BI interactive dashboards for decision-making  
-
-> Used internally by partner stores and resellers.
+A responsive and visually bold platform for a fashion label.  
+Includes:
+- 🛍 Product quick view + stock panel  
+- 💬 WhatsApp live chat integration  
+- 🎨 Optimized UI for mobile-first experience  
+> Tech stack: **Next.js + TailwindCSS + Node.js**
 
 ---
 
-## 🚀 Current Focus
+### 📊 **Power BI & Python Business Dashboard**
+End-to-end data pipeline for sales and inventory tracking:
+- 🔄 Automated ETL scripts (Python + Pandas)  
+- 📊 Power BI dashboards for dynamic insights  
+- 📉 Detects low-rotation stock and margin trends  
+> Used by partner stores and business clients for performance optimization.
 
-- Scaling **ParaSiempreTech** internationally as a boutique software studio.  
-- Developing new modules for e-commerce, analytics, and business automation.  
-- Improving data storytelling through **Power BI** and **Python analytics**.  
-- Building tools that empower creators and entrepreneurs to manage their operations autonomously.
+---
+
+## 🚀 What I’m Focusing On
+- 🌐 Scaling **ParaSiempreTech** into an international boutique dev studio.  
+- 🧠 Mastering data-driven development (Python + Power BI + BI integration).  
+- ⚙️ Building SaaS-like internal tools for e-commerce automation.  
+- 💡 Helping entrepreneurs transform their operations with custom digital systems.  
+
+---
+
+## ⚡ My GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ramiro-Ruggeri&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Ramiro-Ruggeri&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramiro-Ruggeri&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Connect with Me
 
-<p align="left">
-  <a href="mailto:ramirorruggeri@gmail.com"><img src="https://img.shields.io/badge/Email-ruggeri.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/ramiro.ruggeri/"><img src="https://img.shields.io/badge/Instagram-ramiro.ruggeri-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://wa.me/5493885195631"><img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<p align="center">
+  <a href="mailto:ramirorruggeri@gmail.com"><img src="https://img.shields.io/badge/Email-ramirorruggeri%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ramiro.ruggeri/"><img src="https://img.shields.io/badge/Instagram-@ramiro.ruggeri-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/5493885195631?text=Hi%20Ramiro!%20I%27m%20interested%20in%20your%20software%20solutions%20and%20would%20like%20to%20chat."><img src="https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://github.com/Ramiro-Ruggeri"><img src="https://img.shields.io/badge/GitHub-RamiroRuggeri-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Build it. Ship it. Improve it."</i><br/>
-  — Ramiro Ruggeri
+  <i>“Build it. Ship it. Improve it.”</i><br/>
+  <strong>— Ramiro Ruggeri</strong>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ramiro-Ruggeri&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views"/>
 </p>
